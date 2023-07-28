@@ -1,2 +1,2 @@
 # HTML-CSS
- curso de html e css - Curso em Vídeo
+Exercícios de estudo do curso de html e css - Curso em Vídeo
